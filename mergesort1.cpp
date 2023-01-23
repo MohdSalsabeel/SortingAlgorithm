@@ -44,7 +44,7 @@ void merge(int* arr, int start, int end) {
 	}
 
 	while (j1 < len2) {
-		arr[mainArrayIndex++] = first[j1++];
+		arr[mainArrayIndex++] = second[j1++];
 		
 	}
 
